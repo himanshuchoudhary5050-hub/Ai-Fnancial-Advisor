@@ -1,0 +1,11 @@
+h1 {
+color: #2c7be5;
+}
+
+.stButton>button {
+background-color: #28a745;
+color: white;
+border-radius: 8px;
+height: 3em;
+width: 100%;
+}
